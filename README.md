@@ -1,4 +1,4 @@
-# AI-Powered Content Query System with Embeddings
+# AI-Powered Content Processor and Chat Service
 
 ## Overview
 
