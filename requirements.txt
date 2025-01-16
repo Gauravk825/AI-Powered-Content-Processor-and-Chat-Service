@@ -1,0 +1,12 @@
+numpy
+pyPDF2
+pandas
+fastapi
+uvicorn
+beautifulsoup4
+requests
+pdfplumber
+sentence-transformers
+scikit-learn
+transformers
+python-multipart

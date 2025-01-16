@@ -1,0 +1,69 @@
+# Python Bytecode
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pyo
+*.pdb
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+.env/
+env.bak/
+venv.bak/
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and Databases
+*.log
+*.sqlite3
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode Settings
+.vscode/
+*.code-workspace
+
+# PyCharm Settings
+.idea/
+
+# Dependency Files
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Cache Files
+*.cache
+*.mypy_cache/
+*.pytest_cache/
+
+# Environment Variables
+.env
+.env.local
+
+# API Keys and Credentials
+keys.json
+secrets.json
+
+# PDF Uploads (Optional)
+uploads/
+
+# FastAPI Static and Template Files
+static/
+templates/
+
+# Coverage and Test Results
+htmlcov/
+coverage.xml
+.coverage
+
+# PyInstaller Files
+*.spec
